@@ -1,0 +1,10 @@
+C:\QUADRISYSTEMS\IntegradorMonitriip\IntegradorMonitriip\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\QUADRISYSTEMS\IntegradorMonitriip\IntegradorMonitriip\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\QUADRISYSTEMS\IntegradorMonitriip\IntegradorMonitriip\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\QUADRISYSTEMS\IntegradorMonitriip\IntegradorMonitriip\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\QUADRISYSTEMS\IntegradorMonitriip\IntegradorMonitriip\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\QUADRISYSTEMS\IntegradorMonitriip\IntegradorMonitriip\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\QUADRISYSTEMS\IntegradorMonitriip\IntegradorMonitriip\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\QUADRISYSTEMS\IntegradorMonitriip\IntegradorMonitriip\ClassLibrary1\obj\Debug\IntegradorRepository.csprojResolveAssemblyReference.cache
+C:\QUADRISYSTEMS\IntegradorMonitriip\IntegradorMonitriip\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\QUADRISYSTEMS\IntegradorMonitriip\IntegradorMonitriip\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

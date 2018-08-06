@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IntegradorRepositoryAzure.AzureTablesRepository&lt;TEntity&gt;" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACYAAAwAgAQAAABACAAACAgABIEgCggAAAASCAACACA=</HashCode>
+      <FileName>AzureTables\AzureTablesRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IntegradorRepositoryAzure.EmbarqueRepository" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmbarqueRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntegradorRepositoryAzure.ErrosGradesRepository" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ErrosGradesRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntegradorRepositoryAzure.ErrosIntegracaoRepository" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ErrosIntegracaoRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntegradorRepositoryAzure.IntegracaoServicosRepository" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAACAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>IntegracaoServicosRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntegradorRepositoryAzure.StatusRequestRepository" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAIAAQAAAAAAAgAAAAAAAIAAABAAACAAA=</HashCode>
+      <FileName>StatusRequestRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntegradorRepositoryAzure.VendasRepository" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAACAAAAABAAAQAAAAAA=</HashCode>
+      <FileName>VendasRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntegradorRepositoryAzure.ViagensRepository" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAABAACAAEAAEAAAAAAAACA=</HashCode>
+      <FileName>ViagensRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntegradorRepositoryAzure.AzureTables.PutVendas" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAIAgCAAAAAAAACCAAAAAAAAAAAAAAAIAEAAgAA=</HashCode>
+      <FileName>AzureTables\PutVendas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntegradorRepositoryAzure.AzureTables.PutViagens" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAIAACAAAAAAAACABAAAAAAAAAAAAAAIAEAAAAA=</HashCode>
+      <FileName>AzureTables\PutViagens.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlServerTypes.Utilities" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SqlServerTypes\Loader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntegradorMonitriip.Model.BuscaDTO" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorMonitriip.Model.ErrosIntegracaoLog" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorMonitriip.Model.ResultAnttDTO" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorMonitriip.Model.StatusLog" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorModel.Model.IntegracaoServicos" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorModel.Model.passagemCancelada" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="IntegradorModel.Model.VendasModel" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorModel.Model.ViagemModel" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorModel.Model.ServicoPX" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NewsGPS.Contracts.DTO.RJ.ServicoDTO" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NewsGPS.Contracts.DTO.RJ.ServicoDetalhadoDTO" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NewsGPS.Contracts.DTO.RJ.SeccaoDTO" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NewsGPS.Contracts.DTO.RJ.ServicosRelacionadoDTO" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NewsGPS.Contracts.DTO.RJ.ServicoDetalhadoXML" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NewsGPS.Contracts.DTO.RJ.seccaoXML" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NewsGPS.Contracts.DTO.RJ.ServicosRelacionado" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NewsGPS.Contracts.DTO.RJ.servicosDetalhado2" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NewsGPS.Contracts.DTO.RJ.servicoes" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NewsGPS.Contracts.DTO.RJ.ServicoXML" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NewsGPS.Domain.ErrosGrades" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorModel.Model.XmlModel.localidades" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorModel.Model.XmlModel.LocalidadeXML" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorModel.Model.XmlModel.vendas" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorModel.Model.XmlModel.bilhetes" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorModel.Model.XmlModel.PassagemXML" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorModel.ProcessXml.LocalidadePX" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IntegradorModel.ProcessXml.VendasPX" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
